@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-! [GHA workflow badge] (https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
+! [GHA workflow badge] (https://github.com/sas765/ohtuvarasto/actions/workflows/main.yml/badge.svg)
